@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Image File-50.png</file>
+        <file>images/External Link-50.png</file>
+        <file>images/Restart-50.png</file>
+        <file>images/Delete-50-2.png</file>
+        <file>images/Delete-50.png</file>
+        <file>images/Refresh-50.png</file>
+        <file>images/Plus-50.png</file>
+        <file>images/Edit-50.png</file>
+        <file>images/Erase.png</file>
+        <file>images/Stop Filled-50.png</file>
+        <file>images/Minus-50.png</file>
+        <file>images/Paint Palette-50.png</file>
+        <file>images/Copy-50.png</file>
+        <file>images/Paste Special-50.png</file>
+        <file>images/Fill Color-50.png</file>
+        <file>images/GIF-50.png</file>
+        <file>images/Save as-50.png</file>
+    </qresource>
+</RCC>
