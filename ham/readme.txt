@@ -1,0 +1,35 @@
+ham.cpp - A simple app to compute the hamming distance between a list of
+barcodes against each other.
+
+To compile:
+
+compile code within terminal:
+$ g++ ham.cpp hamming_distance
+
+g++ - the compiler
+ham.cpp - source code
+hamming_distance - executable program (you can name this whatever you'd like)
+
+To use:
+
+$ ./hamming_distance
+
+for this to work you need a "ref.txt" in the same directory as your executable.
+An example would look like the following:
+
+CGCCTTTC
+AAAGGAGG
+TTGGATCA
+GCTCCAAT
+ATATGGCA
+
+the program should give you a prompt asking for the number of barcodes:
+
+$ enter the number of barcodes in the "ref.txt" file:
+
+in the example above you would type 5 and hit 'enter'
+
+Output:
+
+within the same directory, there will be an output file called "out.txt".
+this is formatted and can be opened in excel.
