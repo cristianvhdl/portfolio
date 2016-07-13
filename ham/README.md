@@ -1,3 +1,6 @@
+As per request from one of my colleagues, I created this simple app to 
+improve our sequencing pipeline.  This is meant to be a quick start document.
+
 #Hamming Distance#
 
 ham.cpp - A simple app to compute the hamming distance between a list of
