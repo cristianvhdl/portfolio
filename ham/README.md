@@ -34,8 +34,6 @@ in the example above you would type 5 and hit 'enter'
 #Output#
 
 within the same directory, there will be an output file called "out.txt".
-this is formatted and can be opened in excel.
-
-#Sample Output#
-output file with conditional formatting:
+this is formatted and can be opened in excel.  output file with conditional 
+formatting makes for easy viewing:
 ![alt text](https://github.com/ktingey/portfolio/blob/master/ham/sample-out-1.png "sample output")
