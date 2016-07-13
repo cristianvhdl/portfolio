@@ -33,3 +33,6 @@ Output:
 
 within the same directory, there will be an output file called "out.txt".
 this is formatted and can be opened in excel.
+
+*for some reason excel doesn't allow vertical text exporting output to html
+![alt tag] (https://github.com/ktingey/portfolio/edit/master/ham/sample-out.htm)
