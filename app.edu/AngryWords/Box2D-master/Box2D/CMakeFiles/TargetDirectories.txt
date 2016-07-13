@@ -1,0 +1,5 @@
+/home/barajas/A8/u0873312/A8/AngryWords/Box2D-master/Box2D/Testbed/CMakeFiles/Testbed.dir
+/home/barajas/A8/u0873312/A8/AngryWords/Box2D-master/Box2D/glfw/CMakeFiles/glfw.dir
+/home/barajas/A8/u0873312/A8/AngryWords/Box2D-master/Box2D/glew/CMakeFiles/glew.dir
+/home/barajas/A8/u0873312/A8/AngryWords/Box2D-master/Box2D/HelloWorld/CMakeFiles/HelloWorld.dir
+/home/barajas/A8/u0873312/A8/AngryWords/Box2D-master/Box2D/Box2D/CMakeFiles/Box2D.dir

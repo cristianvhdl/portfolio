@@ -1,0 +1,15 @@
+*.lib
+*.obj
+*.log
+*.idb
+*.exe
+*.tlog
+*.pdb
+*.ilk
+*.suo
+*.sdf
+**/obj
+*.user
+*.db
+*.opendb
+*.orig

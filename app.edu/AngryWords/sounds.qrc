@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/snd">
+        <file>Track.mp3</file>
+        <file>saw800.wav</file>
+    </qresource>
+    <qresource prefix="/graphics">
+        <file>graphics/word_background.png</file>
+        <file>graphics/background.png</file>
+        <file>graphics/angry.png</file>
+        <file>graphics/angrywords_background.png</file>
+        <file>graphics/rock_cracks0.png</file>
+        <file>graphics/word_block.png</file>
+        <file>graphics/wood_block.png</file>
+        <file>graphics/heart.png</file>
+        <file>graphics/angrywords_title.png</file>
+        <file>graphics/wordstyped_text.png</file>
+        <file>graphics/hp_text.png</file>
+        <file>graphics/rock_cracks2.png</file>
+        <file>graphics/rock_cracks4.png</file>
+        <file>graphics/Red_square_bird.png</file>
+        <file>graphics/rock_cracks3.png</file>
+        <file>graphics/explosion.gif</file>
+        <file>graphics/wood_decor.png</file>
+        <file>graphics/rock_cracks1.png</file>
+        <file>graphics/login_background.png</file>
+        <file>graphics/game_over_text.png</file>
+        <file>graphics/guest_button.png</file>
+        <file>graphics/instructions.png</file>
+        <file>graphics/menu_button.png</file>
+        <file>graphics/music_button.png</file>
+        <file>graphics/pause_button.png</file>
+        <file>graphics/paused_text.png</file>
+        <file>graphics/playagain_button.png</file>
+        <file>graphics/play_button.png</file>
+        <file>graphics/restart_button.png</file>
+        <file>graphics/sound_button.png</file>
+        <file>graphics/stats_button.png</file>
+        <file>graphics/angry_bird.png</file>
+        <file>graphics/player_highscore.png</file>
+        <file>graphics/powerup_message.png</file>
+        <file>graphics/stats_background.png</file>
+    </qresource>
+</RCC>
