@@ -1,6 +1,6 @@
 # Angry Words by IdleMind Workshop #
 
-[![Build Status](https://travis-ci.com/portfolio/blob/master.svg?token=WuC56fXiyqxaNUHtQCUs&branch=master)](https://travis-ci.com/portfolio/blob/master)
+[![Build Status](https://travis-ci.com/University-of-Utah-CS3505/u0873312.svg?token=WuC56fXiyqxaNUHtQCUs&branch=master)](https://travis-ci.com/University-of-Utah-CS3505/u0873312)
 
 Developer Team: IdleMind Workshop
 
