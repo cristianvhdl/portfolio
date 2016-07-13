@@ -11,8 +11,8 @@ barcodes against each other.
 compile code within terminal:
 $ g++ ham.cpp hamming_distance
 
-g++ - the compiler
-ham.cpp - source code
+g++ - the compiler  
+ham.cpp - source code  
 hamming_distance - executable program (you can name this whatever you'd like)
 
 #To use#
