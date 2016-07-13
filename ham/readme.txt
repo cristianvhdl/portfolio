@@ -34,4 +34,4 @@ Output:
 within the same directory, there will be an output file called "out.txt".
 this is formatted and can be opened in excel.
 
-![alt text] (https://github.com/ktingey/portfolio/blob/master/ham/sample-out-1.png "sample output")
+![alt text](https://github.com/ktingey/portfolio/blob/master/ham/sample-out-1.png "sample output")
