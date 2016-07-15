@@ -46,6 +46,8 @@ The servos and our microcontroller required different power needs. The servos ru
 
 We used two timers and an interrupt for the IR led control. One timer controlled the carrier frequency of 40KHz and the other timer controlled the envelope signal. The timer was controlled on an interrupt. Every time the interrupt was triggered the program advanced one position in the array containing our sequence.
 
+![alt text](https://github.com/ktingey/portfolio/blob/master/giga.pix/diagrams/IR_OUT%20diagram.png)
+
 
 ###Servos:###
 
