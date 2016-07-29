@@ -34,6 +34,8 @@ We wanted to use two different cameras, a Nikon D60 and a Sony A6000. Each had a
 
 A custom pan-tilt mount was designed in CAD and cut from ¼” aluminum sheet using a waterjet.  This process included quite a bit of modeling that helped determine what size motors we would be able to use. Our system is rated for a camera/lens combination weighing up to 7.5 lbs, perfect for our use.  
 
+![alt text](https://github.com/ktingey/portfolio/blob/master/giga.pix/schematics/mount.png)
+
 ###Power:###
 
 The servos and our microcontroller required different power needs. The servos run on six volts while the STM board uses typically five. For the system to work properly we used one six volt pack to power the servos and another nine volt battery to power the STM board. During our testing we found that the five volt would turn the board on but it would not run our code. We referenced the data sheet and discovered that the board could be powered with nine volts.
